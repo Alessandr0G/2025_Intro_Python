@@ -1,0 +1,4 @@
+This is my first I/O exercise.
+I just remembered that pi is approximately 3.1416
+Writing this to this file
+is a piece of cake!
